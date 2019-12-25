@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Elementos/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="40w-bF-0Lc.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "40w-bF-0Lc";</note>
+      </trans-unit>
+      <trans-unit id="A4r-wx-fgg.text" xml:space="preserve">
+        <source>1,008</source>
+        <target>1,008</target>
+        <note>Class = "UILabel"; text = "1,008"; ObjectID = "A4r-wx-fgg";</note>
+      </trans-unit>
+      <trans-unit id="b2L-3h-RrZ.normalTitle" xml:space="preserve">
+        <source>Mostrar mais</source>
+        <target>Mostrar mais</target>
+        <note>Class = "UIButton"; normalTitle = "Mostrar mais"; ObjectID = "b2L-3h-RrZ";</note>
+      </trans-unit>
+      <trans-unit id="bjA-zn-9AA.text" xml:space="preserve">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "bjA-zn-9AA";</note>
+      </trans-unit>
+      <trans-unit id="fqa-Nn-qAq.text" xml:space="preserve">
+        <source>Hydrogen</source>
+        <target>Hydrogen</target>
+        <note>Class = "UILabel"; text = "Hydrogen"; ObjectID = "fqa-Nn-qAq";</note>
+      </trans-unit>
+      <trans-unit id="hPt-25-7pZ.text" xml:space="preserve">
+        <source>DIATOMIC NONMETAL</source>
+        <target>DIATOMIC NONMETAL</target>
+        <note>Class = "UILabel"; text = "DIATOMIC NONMETAL"; ObjectID = "hPt-25-7pZ";</note>
+      </trans-unit>
+      <trans-unit id="iXk-MU-teV.text" xml:space="preserve">
+        <source>He</source>
+        <target>He</target>
+        <note>Class = "UILabel"; text = "He"; ObjectID = "iXk-MU-teV";</note>
+      </trans-unit>
+      <trans-unit id="r8J-eb-aCU.text" xml:space="preserve">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "r8J-eb-aCU";</note>
+      </trans-unit>
+      <trans-unit id="x8A-It-oMy.title" xml:space="preserve">
+        <source>Elementos Químicos</source>
+        <target>Elementos Químicos</target>
+        <note>Class = "UINavigationItem"; title = "Elementos Químicos"; ObjectID = "x8A-It-oMy";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Elementos/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.3" build-num="11C29"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Elementos</source>
+        <target>Elementos</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

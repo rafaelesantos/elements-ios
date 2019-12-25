@@ -1,0 +1,6 @@
+framework module Pods_Elementos {
+  umbrella header "Pods-Elementos-umbrella.h"
+
+  export *
+  module * { export * }
+}
