@@ -18,9 +18,9 @@
 
 <p align="center">
 <img src="Assets/Screen 1.png" width="25%"/>
-<img src="Assets/Screen 2.png" width="25%"/>
 <img src="Assets/Screen 3.png" width="25%"/>
-<img src="Assets/Screen 4.png" width="25%"/>
 <img src="Assets/Screen 5.png" width="25%"/>
+<img src="Assets/Screen 2.png" width="25%"/>
+<img src="Assets/Screen 4.png" width="25%"/>
 <img src="Assets/Screen 6.png" width="25%"/>
 </p>
